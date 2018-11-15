@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CylindricalMapProjectionsTestPage.aspx](./CS/CylindricalMapProjections.Web/CylindricalMapProjectionsTestPage.aspx) (VB: [CylindricalMapProjectionsTestPage.aspx](./VB/CylindricalMapProjections.Web/CylindricalMapProjectionsTestPage.aspx))
+* [MainPage.xaml](./CS/CylindricalMapProjections/MainPage.xaml) (VB: [MainPage.xaml](./VB/CylindricalMapProjections/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/CylindricalMapProjections/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/CylindricalMapProjections/MainPage.xaml))
+<!-- default file list end -->
 # How to provide cylindrical equal-area projections of a map
 
 
